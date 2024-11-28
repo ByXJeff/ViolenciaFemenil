@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Violencia Femenina</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #d81b60;
+            color: #ffffff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #d81b60;
+        }
+        p {
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Concienciación sobre la Violencia Femenina</h1>
+    </header>
+    <div class="container">
+        <h2>¿Qué es la violencia femenina?</h2>
+        <p>La violencia contra las mujeres es un problema grave que afecta a todas las sociedades. Incluye cualquier acto de violencia de género que resulte en daño físico, sexual o psicológico a mujeres.</p>
+
+        <h2>Tipos de violencia</h2>
+        <p>Existen diferentes formas de violencia, entre ellas:</p>
+        <ul>
+            <li>Violencia física</li>
+            <li>Violencia psicológica</li>
+            <li>Violencia sexual</li>
+            <li>Violencia económica</li>
+        </ul>
+
+        <h2>¿Qué puedes hacer?</h2>
+        <p>Es importante actuar y buscar ayuda. Si tú o alguien que conoces está en peligro, contacta a las autoridades o a organizaciones locales que ofrezcan apoyo.</p>
+    </div>
+    <footer>
+        <p>&copy; 2024 Concienciación sobre la Violencia Femenina</p>
+    </footer>
+</body>
+</html>
